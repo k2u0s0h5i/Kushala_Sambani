@@ -1,44 +1,18 @@
-# 👋 Hi, I'm Kushala Sambani  
+# 💫 About Me:
+# 👋 Hi, I'm Kushala Sambani  <br><br>🎓 I'm a **Computer Science undergraduate** at **SRM University AP**, passionate about exploring the intersections of **Artificial Intelligence, Machine Learning, and Web Development**.  <br><br>💻 I love building projects that blend creativity and technology — from **smart web applications** to **AI-driven research models**.  <br>🔬 My current research focuses on **predicting fluorine concentrations using Random Forest Regression** and **AI-based groundwater contamination analysis**.  <br><br>🌱 I’m also exploring **frontend development** using **React + Vite**, and enjoy crafting clean, user-friendly interfaces.  <br>💬 Ask me about **Machine Learning, React, Node.js, Cybersecurity, or research workflows**.  <br><br>---<br><br>### 🧠 Interests  <br>- Artificial Intelligence & Machine Learning  <br>- Cybersecurity  <br>- Full-Stack Web Development  <br>- Research and Data Science  <br><br>---<br><br>### 🚀 Projects  <br>- **SmartRent** – A SmartCity hackathon project using React & Vite for seamless house rentals.  <br>- **UNI-MEET** – A MERN stack appointment and availability management system.  <br>- **Stream Zone** – An OTT platform built with React.  <br>- **MAD Music Player** – A JavaFX desktop music player app.  <br><br>---<br><br>### 🛠️ Tech Stack  <br>**Languages:** Python, JavaScript, Java, SQL  <br>**Frameworks & Tools:** React, Node.js, Express, Tailwind CSS, MongoDB, MySQL, PHP  <br>**Others:** Vite, Git, WordPress, Canva, CapCut, VN  <br><br>---<br><br>### 🌍 Connect with Me  <br>📫 **Email:** [kushala_sambani@srmap.edu.in](mailto:kushala_sambani@srmap.edu.in)  <br>💼 **LinkedIn:** [www.linkedin.com/in/kushala-sambani](https://www.linkedin.com/in/kushala-sambani)  <br>🐙 **GitHub:** [github.com/k2u0s0h5i](https://github.com/k2u0s0h5i)  <br>💻 **HackerRank:** [hackerrank.com/profile/AP22110011206](https://www.hackerrank.com/profile/AP22110011206)  <br><br>---<br><br>⭐ _“Building, learning, and growing one project at a time.”_
 
-🎓 I'm a **Computer Science undergraduate** at **SRM University AP**, passionate about exploring the intersections of **Artificial Intelligence, Machine Learning, and Web Development**.  
 
-💻 I love building projects that blend creativity and technology — from **smart web applications** to **AI-driven research models**.  
-🔬 My current research focuses on **predicting fluorine concentrations using Random Forest Regression** and **AI-based groundwater contamination analysis**.  
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/kushala-sambani) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@sambanikushala) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sambanikushala@gmail.com) 
 
-🌱 I’m also exploring **frontend development** using **React + Vite**, and enjoy crafting clean, user-friendly interfaces.  
-💬 Ask me about **Machine Learning, React, Node.js, Cybersecurity, or research workflows**.  
-
----
-
-### 🧠 Interests  
-- Artificial Intelligence & Machine Learning  
-- Cybersecurity  
-- Full-Stack Web Development  
-- Research and Data Science  
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=k2u0s0h5i&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=k2u0s0h5i&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=k2u0s0h5i&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=k2u0s0h5i&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🚀 Projects  
-- **SmartRent** – A SmartCity hackathon project using React & Vite for seamless house rentals.  
-- **UNI-MEET** – A MERN stack appointment and availability management system.  
-- **Stream Zone** – An OTT platform built with React.  
-- **MAD Music Player** – A JavaFX desktop music player app.  
-
----
-
-### 🛠️ Tech Stack  
-**Languages:** Python, JavaScript, Java, SQL  
-**Frameworks & Tools:** React, Node.js, Express, Tailwind CSS, MongoDB, MySQL, PHP  
-**Others:** Vite, Git, WordPress, Canva, CapCut, VN  
-
----
-
-### 🌍 Connect with Me  
-📫 **Email:** [kushala_sambani@srmap.edu.in](mailto:kushala_sambani@srmap.edu.in)  
-💼 **LinkedIn:** [www.linkedin.com/in/kushala-sambani](https://www.linkedin.com/in/kushala-sambani)  
-🐙 **GitHub:** [github.com/k2u0s0h5i](https://github.com/k2u0s0h5i)  
-💻 **HackerRank:** [hackerrank.com/profile/AP22110011206](https://www.hackerrank.com/profile/AP22110011206)  
-
----
-
-⭐ _“Building, learning, and growing one project at a time.”_
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
